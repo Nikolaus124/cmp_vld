@@ -23,6 +23,7 @@ public class ConnectionPSG {
         }
         return connection;
     }
+
     public static void main(String[] argv) {
 
         System.out.println("Testing connection to PostgreSQL JDBC");
